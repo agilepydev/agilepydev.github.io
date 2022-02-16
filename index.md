@@ -1,5 +1,6 @@
 ### Portfolio
 <br> By clicking on the link of the projects you will be referred to the Readme file on github to view the projects in more detail. <br>
+
 ---
 
 #### Projects
