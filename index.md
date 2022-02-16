@@ -10,7 +10,7 @@
 
 ---
 [Entity Recognition](https://github.com/agilepydev/Entity_Recognition-1?organization=agilepydev&organization=agilepydev)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![knowledge_graph](https://d1.awsstatic.com/products/Neptune/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png)
 
 ---
 [Anomaly Detection In Sound](https://github.com/agilepydev/brAIn-individual-)
