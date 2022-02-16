@@ -1,20 +1,20 @@
 ### Portfolio
-<br> By clicking on the link of the projects you will be referred to the Readme file on github to view the projects in more detail. <br>
+<br> By clicking on the name of the projects or picture you will be referred to the Readme file and the code on github to view the projects in more detail. <br>
 
 ---
 
 #### Projects
 
 [3D House](https://github.com/agilepydev/3D-House)
-![building!](https://user-images.githubusercontent.com/90683636/140307269-092186fb-f23c-4114-9ad4-9178ec76237f.png)
+![building!](https://user-images.githubusercontent.com/90683636/140307269-092186fb-f23c-4114-9ad4-9178ec76237f.png)(https://github.com/agilepydev/3D-House)
 
 ---
 [Entity Recognition](https://github.com/agilepydev/Entity_Recognition-1?organization=agilepydev&organization=agilepydev)
-![knowledge_graph](https://d1.awsstatic.com/products/Neptune/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png)
+![knowledge_graph](https://d1.awsstatic.com/products/Neptune/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png)(https://github.com/agilepydev/Entity_Recognition-1?organization=agilepydev&organization=agilepydev)
 
 ---
 [Anomaly Detection In Sound](https://github.com/agilepydev/brAIn-individual-)
-![App Screenshot](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/brain.png)
+![App Screenshot](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/brain.png)(https://github.com/agilepydev/brAIn-individual-)
 
 ---
 
