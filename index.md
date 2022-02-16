@@ -1,12 +1,10 @@
-## Portfolio
-
+### Portfolio
+<br> By clicking on the link of the projects you will be referred to the Readme file on github to view the projects in more detail. <br>
 ---
 
-### Projects 
-<br> By clicking on the link of the projects you will be referred to the Readme file on github to view the projects in more detail. <br>
+#### Projects
 
 [3D House](https://github.com/agilepydev/3D-House)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ![building!](https://user-images.githubusercontent.com/90683636/140307269-092186fb-f23c-4114-9ad4-9178ec76237f.png)
 
 ---
@@ -15,7 +13,6 @@
 
 ---
 [Anomaly Detection In Sound](https://github.com/agilepydev/brAIn-individual-)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ![App Screenshot](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/brain.png)
 
 ---
