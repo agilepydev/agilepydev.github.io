@@ -7,14 +7,16 @@
 
 [3D House](https://github.com/agilepydev/3D-House)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+![building!](https://user-images.githubusercontent.com/90683636/140307269-092186fb-f23c-4114-9ad4-9178ec76237f.png)
 
 ---
 [Entity Recognition](https://github.com/agilepydev/Entity_Recognition-1?organization=agilepydev&organization=agilepydev)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://github.com/agilepydev/brAIn-individual-)
+[Anomaly Detection In Sound](https://github.com/agilepydev/brAIn-individual-)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+![App Screenshot](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/brain.png)
 
 ---
 
