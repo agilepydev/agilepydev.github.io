@@ -14,7 +14,7 @@ The task here was to build a solution with the data of LIDAR PLANES, active in t
 ---
 [Entity Recognition](https://github.com/agilepydev/Entity_Recognition-1?organization=agilepydev&organization=agilepydev)
 
-Created a knowledge graph out of 10 thousand news articlesusing NLP with Spacy and Neo4j for entity recognition and relation extraction & present the insight and findings to ourclient.
+Created a knowledge graph out of 10 thousand news articles using NLP with Spacy and Neo4j for entity recognition and relation extraction & present the insight and findings to ourclient.
 
 [![knowledge_graph](https://d1.awsstatic.com/products/Neptune/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png)](https://github.com/agilepydev/Entity_Recognition-1?organization=agilepydev&organization=agilepydev)
 
@@ -24,7 +24,7 @@ Created a knowledge graph out of 10 thousand news articlesusing NLP with Spacy a
 
 Building machine learning models for Anomaly detection in sound patterns and deciding wich model performs the best.
 
-[![App Screenshot](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/brain.png)](https://github.com/agilepydev/brAIn-individual-)
+[![App Screenshot](https://raw.githubusercontent.com/agilepydev/brAIn-individual-/main/assets/brain.png)](https://github.com/agilepydev/brAIn-individual-)
 
 ---
 
@@ -34,9 +34,9 @@ Building machine learning models for Anomaly detection in sound patterns and dec
 ### Category Name 2
 
 - [3D House](https://github.com/agilepydev/3D-House)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Entity Recognition](http://example.com/)
+- [Knowledge_Graph](http://example.com/)
+- [Anomaly Detection In Sound](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
