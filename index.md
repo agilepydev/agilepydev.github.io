@@ -12,7 +12,7 @@ The task here was to build a solution with the data of LIDAR PLANES, active in t
 [![building!](https://user-images.githubusercontent.com/90683636/140307269-092186fb-f23c-4114-9ad4-9178ec76237f.png)](https://github.com/agilepydev/3D-House)
 
 ---
-[Entity Recognition](https://github.com/agilepydev/Entity_Recognition-1?organization=agilepydev&organization=agilepydev)
+[Entity Recognition](https://github.com/agilepydev/Entity-Recognition)
 
 Created a knowledge graph out of 10 thousand news articles using NLP with Spacy and Neo4j for entity recognition and relation extraction & present the insight and findings to ourclient.
 
@@ -38,7 +38,7 @@ Programmed a dashboard based on the steam analysis for our client using SQL and 
 ### Category Name 2
 
 - [3D House](https://github.com/agilepydev/3D-House)
-- [Knowledge_Graph](https://github.com/agilepydev/Entity_Recognition-1?organization=agilepydev&organization=agilepydev)
+- [Knowledge_Graph](https://github.com/agilepydev/Entity-Recognition)
 - [Anomaly Detection In Sound](https://github.com/agilepydev/brAIn-individual-)
 - [Dashboard Market Research Steam](https://github.com/agilepydev/deployment-demo)
 
