@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [3D House](https://github.com/agilepydev/3D-House)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -16,6 +16,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+[Project 4 Title](https://github.com/agilepydev/brAIn-individual-)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
 
@@ -31,5 +34,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
