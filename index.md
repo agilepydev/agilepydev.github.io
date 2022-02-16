@@ -1,5 +1,5 @@
 ### Portfolio
-<br> By clicking on the name of the projects or picture you will be referred to the Readme file and the code on github to view the projects in more detail. <br>
+<br> By clicking on the name or image of the projects you will be referred to the Readme file and the code on github to view the projects in more detail. <br>
 
 ---
 
