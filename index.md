@@ -28,8 +28,12 @@ Building machine learning models for Anomaly detection in sound patterns and dec
 
 ---
 
-[Project 4 Title](https://github.com/agilepydev/brAIn-individual-)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dashboard Market Research Steam](https://github.com/agilepydev/deployment-demo)
+
+Programmed a dashboard based on the steam analysis for our client using SQL and Flask for market research to have a better overview of what kind of game to develop, what sector, what to price certain games at etc. After that I presented the insights to the client.
+
+[![App Screenshot](https://user-images.githubusercontent.com/90683636/154274225-85205c9f-eeb9-4474-9631-376969b3807c.png)](https://github.com/agilepydev/deployment-demo)
+
 
 ### Category Name 2
 
