@@ -3,6 +3,7 @@
 ---
 
 ### Projects 
+<br> By clicking on the link of the projects you will be referred to the Readme file on github to view the projects in more detail. <br>
 
 [3D House](https://github.com/agilepydev/3D-House)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
