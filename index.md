@@ -35,10 +35,10 @@ Programmed a dashboard based on the steam analysis for our client using SQL and 
 [![App Screenshot](https://user-images.githubusercontent.com/90683636/154274225-85205c9f-eeb9-4474-9631-376969b3807c.png)](https://github.com/agilepydev/deployment-demo)
 
 
-### Category Name 2
+### Links
 
 - [3D House](https://github.com/agilepydev/3D-House)
-- [Knowledge_Graph](https://github.com/agilepydev/Entity-Recognition)
+- [Knowledge Graph](https://github.com/agilepydev/Entity-Recognition)
 - [Anomaly Detection In Sound](https://github.com/agilepydev/brAIn-individual-)
 - [Dashboard Market Research Steam](https://github.com/agilepydev/deployment-demo)
 
