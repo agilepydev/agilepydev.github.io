@@ -16,7 +16,7 @@ The task here was to build a solution with the data of LIDAR PLANES, active in t
 
 Created a knowledge graph out of 10 thousand news articles using NLP with Spacy and Neo4j for entity recognition and relation extraction & present the insight and findings to ourclient.
 
-[![knowledge_graph](https://d1.awsstatic.com/products/Neptune/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png)](https://github.com/agilepydev/Entity_Recognition-1?organization=agilepydev&organization=agilepydev)
+[![knowledge_graph](https://d1.awsstatic.com/products/Neptune/knowledge_graph.b0e9408219d92f2ca3c7a05cccf9a5a72e34ddbd.png)](https://github.com/agilepydev/Entity-Recognition)
 
 ---
 
